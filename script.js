@@ -1,4 +1,4 @@
-  const quotes = [
+const quotes = [
     "Believe in yourself!",
     "Every moment is a fresh beginning.",
     "Success is not final, failure is not fatal.",
